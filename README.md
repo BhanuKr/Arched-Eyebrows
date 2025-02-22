@@ -2,6 +2,7 @@
 
 ## Overview
 This project aims to classify images based on the presence of the 'Arched Eyebrows' attribute using ResNet18. The dataset used is a subset of CelebA, with images and corresponding attribute labels. The model is trained on the training set and evaluated using precision, accuracy, F1 score, ROC curve, and confusion matrix.
+## Results Obtained - On training the model on a subset of the dataset got accuracy = 78.33% , AUC = 0.82 for Batch size = 32 and lr = 0.001  .
 
 ## Dataset
 - **Dataset Name**: CelebA - https://www.dropbox.com/scl/fi/7m0pt1dkmwbkr3byv5r2j/face_images.zip?rlkey=r2gqsdvuyvpqqk4a7bjd9kcvv&st=nj7wl35d&dl=1
