@@ -4,7 +4,7 @@
 This project aims to classify images based on the presence of the 'Arched Eyebrows' attribute using ResNet18. The dataset used is a subset of CelebA, with images and corresponding attribute labels. The model is trained on the training set and evaluated using precision, accuracy, F1 score, ROC curve, and confusion matrix.
 
 ## Dataset
-- **Dataset Name**: CelebA (Subset)
+- **Dataset Name**: CelebA - https://www.dropbox.com/scl/fi/7m0pt1dkmwbkr3byv5r2j/face_images.zip?rlkey=r2gqsdvuyvpqqk4a7bjd9kcvv&st=nj7wl35d&dl=1
 - **Files Used**:
   - `image_align_celeba/` (Folder containing images)
   - `face_image_attr.csv` (Contains attributes for each image)
@@ -56,6 +56,4 @@ The project directory is structured as follows:
 ├── README.md                    # Project documentation
 ```
 
-## Dataset
-CelebA - https://www.dropbox.com/scl/fi/7m0pt1dkmwbkr3byv5r2j/face_images.zip?rlkey=r2gqsdvuyvpqqk4a7bjd9kcvv&st=nj7wl35d&dl=1
 
